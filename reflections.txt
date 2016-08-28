@@ -1,0 +1,7 @@
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+i re-open the string class use define_method and send
+And, the following reflections:
+
+How long did you spend working on this project? 7 hours
+What was the most rewarding challenge you conquered? separating the .color code from the sample printout text
+Where do you still have room to grow? metaprogramming still feels very untouchable and scary
